@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1049933430505",
+    "project_id": "foxcchatter",
+    "storage_bucket": "foxcchatter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049933430505:android:8c7a227c026ab44df57a78",
+        "android_client_info": {
+          "package_name": "com.foxcoin.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049933430505-e26llpof98l1c72dudpaqkc0d8ichvqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foxcoin.social",
+            "certificate_hash": "5ec2ef51b966df513e664cb963f7c1db084d252f"
+          }
+        },
+        {
+          "client_id": "1049933430505-8juirjkdpnqi3ppbt8glgdqc4ihm3p2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6moDubsEnP5HCxO5d1_Cz7PmWBBiKS4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049933430505-8juirjkdpnqi3ppbt8glgdqc4ihm3p2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
